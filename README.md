@@ -1,7 +1,7 @@
 
 ## Linear Regression through python.
 ---
-See the .ipynb version of this README for the math images not displayed in this format.
+See the [README.ipynb](https://github.com/ppgiii/Regression/blob/master/README.ipynb) version of this README for the math images not displayed in this format.
 
 ### Introduction  
 This exercise attempts to learn linear regression by using equations from the textbook "Introduction to Linear Regression Analysis" with python.  It will use python libraries' statsmodels, scipy, and scikit-learn for comparison and show the differences in implementation.  Visualization of the results uses matplotlib, pandas plot(), & seaborn.  
